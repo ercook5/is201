@@ -1,0 +1,57 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(205, 182, 248);
+color:rrgb(119, 228, 191)
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+img{
+        width: 20%;
+        display: block;
+        /* Notes for myself
+        span doesn't do anything but you caqn use it to specify style
+        
+        <span style="font-family: Courier etc;" 
+        
+        If it has a PERIOD OR DOT first it is CUSTOM
+        li or brackets will effect THE WHOLE DOC
+        
+        */
+        border: solid 7px rgb(91, 51, 193);
+        padding: 3px;
+        margin: auto;
+        margin-top: 5px;
+        margin-bottom: 5px;
+}
+a{
+    color:rgb(79, 123, 200);;
+}
+
+
+.favorite{
+    font-family:cursive;
+    text-align: center;
+
+}
+.trip{
+    font-family: cursive;
+    color: rgb(212, 104, 160);
+    font-weight: bold;
+    border: rgb(150, 199, 248) dotted 2px;
+    text-align: center;
+}
+.trip:hover{
+    font-size: 30px;
+    text-decoration: 
+    background-color:
+    color:aliceblue;
+}
+
+.fav: hover{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.background{
+    background-image: url("https://c8.alamy.com/comp/2GP8T53/seamless-realistic-marble-pattern-golden-texture-background-beautiful-elegant-abstract-marble-high-resolution-texture-illustration-2GP8T53.jpg");
+}
